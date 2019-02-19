@@ -1,6 +1,6 @@
 {
-  "name": "NewHere",
-  "short_name": "NewHere",
+  "name": "JustMoved",
+  "short_name": "JustMoved",
   "start_url": "/index.html",
   "display": "standalone",
   "orientation": "portrait",
